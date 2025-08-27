@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Tritonia</string>
+    <string name="login">Lägg till</string>
+    <string name="pin_code">Pinkod</string>
+    <string name="don_t_have_apply_for_a_library_card">Beställ bibliotekskort</string>
+    <string name="library_card_number">Bibliotekskortets nummer</string>
+    <string name="login2">Lägg till</string>
+    <string name="tritonia">Tritonia</string>
+    <string name="tritonia_title">Tritonia</string>
+    <string name="login_title">Lägg till kort</string>
+    <string name="success">Framgång</string>
+    <string name="barcode">Streckkoden</string>
+    <string name="hyperlink"><a href="https://www.tritonia.fi/sv/bibliotekskort">Beställ bibliotekskort</a></string>
+    <string name="show_pin">Visa pinkod</string>
+    <string name="hide_pin">Dölj pinkod</string>
+    <string name="logout">Ta bort kortet</string>
+    <string name="unsuccessful">Lägga till misslyckades</string>
+    <string name="login_button_description">Lägg till kort-knapp</string>
+</resources>
